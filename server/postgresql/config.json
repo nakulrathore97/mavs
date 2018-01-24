@@ -1,0 +1,11 @@
+{
+  "port": 9999,
+  "type": "postgresql",
+  "db": {
+    "server": "localhost",
+    "user": "postgres",
+    "password": "forgot",
+    "database": "testing",
+    "options": {}
+  }
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example2</string>
+    <color name="white">#20948B</color>
+    <color name="ttt">#FFFFFF</color>
+</resources>

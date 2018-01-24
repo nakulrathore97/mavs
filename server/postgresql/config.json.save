@@ -1,0 +1,11 @@
+{
+  "port": 22,
+  "type": "postgresql",
+  "db": {
+    "server": "40.71.5.136",
+    "user": "postgres",
+    "password": "forgot",
+    "database": "testing",
+    "options": {}
+  }
+}
